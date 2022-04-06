@@ -40,5 +40,6 @@
 <br>
 
 ### 프로젝트 스케치
+![프로젝트 스케치](https://user-images.githubusercontent.com/96467897/161971769-ff8e1a46-d8cc-4420-bd76-826f0ab44ddc.PNG)
 
 ### ERD

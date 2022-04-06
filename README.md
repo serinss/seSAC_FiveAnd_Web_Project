@@ -43,3 +43,5 @@
 ![프로젝트 스케치](https://user-images.githubusercontent.com/96467897/161971769-ff8e1a46-d8cc-4420-bd76-826f0ab44ddc.PNG)
 
 ### ERD
+![index MVC](https://user-images.githubusercontent.com/96467897/161972758-a0dfbeaa-ce3b-4321-a358-664dbc10c4de.png)
+![Auction MVC](https://user-images.githubusercontent.com/96467897/161972774-88af6fb4-6a96-4b46-a9bb-c5ee9f58b590.png)
